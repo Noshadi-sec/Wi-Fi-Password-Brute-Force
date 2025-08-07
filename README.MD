@@ -56,7 +56,7 @@ Follow these steps to get the tool running.
     ```
 
 3.  **Run the script:**
-    * *(Make sure to replace wifi_cracker.py with the actual name of your Python file)*
+    * *(Make sure to replace "wifi_cracker.py" with the actual name of your Python file)*
     ```bash
     python wifi_cracker.py
     ```
