@@ -46,7 +46,7 @@ Follow these steps to get the tool running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Noshadi-sec/Wi-Fi-Password-Brute-Force.git](https://github.com/Noshadi-sec/Wi-Fi-Password-Brute-Force.git)
+    git clone https://github.com/Noshadi-sec/Wi-Fi-Password-Brute-Force.git
     cd Wi-Fi-Password-Brute-Force
     ```
 
