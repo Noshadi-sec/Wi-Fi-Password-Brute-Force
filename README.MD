@@ -1,4 +1,4 @@
-# Wi-Fi Password Brute-Force Tool 🛡️
+# Wi-Fi Password Brute-Force Tool 
 
 **Publisher:** Noshadi-sec
 
@@ -7,13 +7,13 @@
 
 This is a Python-based script for testing the security of your WPA2-PSK Wi-Fi network. It features two primary attack vectors: a **wordlist attack** and a **generated brute-force attack**. Its main strength lies in its ability to function as a **distributed system**, where multiple computers can work together to test passwords, significantly reducing the time required.
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 **This tool is intended for educational purposes and for testing networks to which you have explicit, authorized permission ONLY.** Unauthorized access to computer networks is illegal. The publisher of this tool, Noshadi-sec, assumes no liability and is not responsible for any misuse or damage caused by this program. **Use it ethically and legally.**
 
 ---
 
-## ## Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following:
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following:
 
 ---
 
-## ## How It Works
+## How It Works
 
 The script operates in a few simple stages:
 
@@ -40,7 +40,7 @@ The script operates in a few simple stages:
 
 ---
 
-## ## Installation and Usage
+## Installation and Usage
 
 Follow these steps to get the tool running.
 
@@ -62,7 +62,7 @@ Follow these steps to get the tool running.
     ```
 ---
 
-## ## Example Walkthrough
+## Example Walkthrough
 
 Here is what a typical session in the terminal looks like:
 
@@ -93,6 +93,6 @@ Worker 0 (Wordlist) | Try 2/746061 (Line: 3): 12345678
 
 ---
 
-## ## License
+## License
 
 This project is licensed under the MIT License. See the **`LICENSE`** file for the full text.
